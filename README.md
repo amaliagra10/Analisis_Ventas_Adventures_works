@@ -60,11 +60,10 @@ El análisis pone foco en el tipo de productos vendidos y en la **segmentación 
 
 A continuación, se presenta una vista del tablero desarrollado:
 
-![Dashboard Power BI](IMG/Captura de Pantalla 2025-06-27 090448.png)---
-![Dashboard Power BI](IMG/Captura de Pantalla 2025-06-27 090928.png)---
-![Dashboard Power BI](IMG/Captura de Pantalla 2025-06-27 090946.png)---
-![Dashboard Power BI](IMG/Captura de Pantalla 2025-06-27 091156.png)---
-
+![Dashboard 1](IMG/Captura%20de%20Pantalla%202025-06-27%20090448.png)
+![Dashboard 2](IMG/Captura%20de%20Pantalla%202025-06-27%20090928.png)
+![Dashboard 3](IMG/Captura%20de%20Pantalla%202025-06-27%20090946.png)
+![Dashboard 4](IMG/Captura%20de%20Pantalla%202025-06-27%20091156.png)
 
 
 
